@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Logotipo de Aula Digital FISC</title>
+  <rect width="120" height="120" rx="26" fill="#173f70"/>
+  <path d="M28 38h64v48H28z" fill="#ffffff"/>
+  <path d="M38 49h44M38 60h34M38 71h40" stroke="#176b62" stroke-width="7" stroke-linecap="round"/>
+</svg>

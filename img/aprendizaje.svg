@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430" role="img" aria-labelledby="title">
+  <title id="title">Estudiante trabajando con recursos digitales</title>
+  <rect x="72" y="45" width="456" height="270" rx="22" fill="#173f70"/>
+  <rect x="96" y="69" width="408" height="222" rx="12" fill="#ffffff"/>
+  <circle cx="180" cy="160" r="46" fill="#90c8c1"/>
+  <rect x="252" y="112" width="180" height="16" rx="8" fill="#176b62"/>
+  <rect x="252" y="150" width="150" height="13" rx="6" fill="#c9d9e8"/>
+  <rect x="252" y="180" width="190" height="13" rx="6" fill="#c9d9e8"/>
+  <path d="M220 350h160" stroke="#173f70" stroke-width="22" stroke-linecap="round"/>
+  <path d="M300 315v38" stroke="#173f70" stroke-width="20"/>
+</svg>
